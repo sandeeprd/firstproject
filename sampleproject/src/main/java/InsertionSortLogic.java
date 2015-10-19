@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class InsertionSortLogic {
     public static void main(String[] args) {
 
-        // screate a scanner instance for user input
+        // Create a scanner instance for user input
         Scanner reader = new Scanner(System.in);
 
         System.out.println("Enter the first number");
