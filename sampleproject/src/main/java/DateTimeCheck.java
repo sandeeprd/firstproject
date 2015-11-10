@@ -14,5 +14,6 @@ public class DateTimeCheck {
 
         System.out.println("Hey dude, today is " + today + " and it's " + timeNow);
         System.out.println("But DateTime is " + LocalDateTime.now());
+        System.out.println("But DateTime is " + LocalDateTime.now());
     }
 }
